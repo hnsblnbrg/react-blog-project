@@ -1,4 +1,4 @@
-#Blog project
+# Blog project
 
 A simple blog project written in React.
 
