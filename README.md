@@ -1,7 +1,20 @@
-A blog project written in React. 
+#Blog project
 
-- Install dependencies by running "npm i".
+A simple blog project written in React.
 
-- To run JSON Server type "npx json-server --watch data/db.json --port 8000". You can input whatever port value you like except 3000.
+# Install dependencies.
 
-- To start the application, run "npm start".
+```bash
+npm i
+```
+
+# Run JSON Server (You can input whatever port value you like except 3000).
+```bash
+npx json-server --watch data/db.json --port 8000
+```
+
+#Start application.
+
+```bash
+npm start
+```
