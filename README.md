@@ -2,7 +2,7 @@
 
 A simple blog project written in React.
 
-# Install dependencies.
+# Install dependencies
 
 ```bash
 npm i
@@ -14,7 +14,7 @@ You can input whatever port value you like except 3000, since the application wi
 npx json-server --watch data/db.json --port 8000
 ```
 
-#Start application.
+# Start application
 
 ```bash
 npm start
