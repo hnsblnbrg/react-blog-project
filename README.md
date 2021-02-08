@@ -1,6 +1,6 @@
 # Blog project
 
-A simple blog project written in React.
+A simple blog project written in React, using JSON server to store data. 
 
 # Install dependencies
 
